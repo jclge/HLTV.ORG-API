@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+HLTV/HLTV.py
+HLTV/__init__.py
+hltv_api_jclge.egg-info/PKG-INFO
+hltv_api_jclge.egg-info/SOURCES.txt
+hltv_api_jclge.egg-info/dependency_links.txt
+hltv_api_jclge.egg-info/requires.txt
+hltv_api_jclge.egg-info/top_level.txt

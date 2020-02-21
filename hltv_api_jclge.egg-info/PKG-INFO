@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: hltv-api-jclge
+Version: 0.1.0
+Summary: Unofficial Python API for the Counter-Strike home: HLTV.ORG
+Home-page: https://github.com/jclge/HLTV.ORG-API
+Author: JCLGE
+Author-email: julien.calenge@epitech.eu
+License: GNU 3
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
