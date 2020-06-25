@@ -5,7 +5,7 @@
 
 Welcome to HLTV.ORG-API's documentation!
 ========================================
-HLTV.ORG-API is an unofficial, friendly Python API for the Counter-Strike's esport website `HLTV.ORG <https://hltv.org>`_. It has been made with love by Julien Calenge.
+./\HLTV.ORG-API is an unofficial, friendly Python API for the Counter-Strike's esport website `HLTV.ORG <https://hltv.org>`_. It has been made with love by Julien Calenge.
 
 .. image:: https://githubbadges.com/star.svg?user=jclge&repo=HLTV.ORG-API&style=default
     :target: https://github.com/jclge/HLTV.ORG-API
